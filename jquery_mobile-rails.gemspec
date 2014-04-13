@@ -1,14 +1,14 @@
 $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
-  s.name         = "jquery_mobile-rails"
+  s.name         = "jquery.mobile-rails"
   s.version      = '3.1.0'
   s.platform     = Gem::Platform::RUBY  
   s.description  = "jQuery Mobile"
   s.summary      = "This gem provides the jQuery Mobile assets to Rails apps."
-  s.author       = 'Earlydoc'
-  s.email        = 'developer@earlydoc.com'
-  s.homepage     = 'http://www.earlydoc.com'  
+  s.author       = 'GavinCS'
+  s.email        = 'gavin@s-aint.com'
+  s.homepage     = ''
   s.require_path = 'lib'
   s.required_rubygems_version = ">= 1.8.x"
 

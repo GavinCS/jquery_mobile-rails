@@ -9,13 +9,13 @@ http://jquerymobile.com/
 
 This gem is intended to support the latest stable and candidate releases. The current jQuery Mobile version is:
 
-    v1.3.1 release
+    v1.4.2 release
 
 ### Installation
 
 In your Gemfile, add this line:
 
-    gem "jquery_mobile-rails", :git => 'https://github.com/Guidecase/jquery_mobile-rails.git'
+    gem "jquery_mobile-rails", :git => 'git@github.com:GavinCS/jquery_mobile-rails.git'
 
 You can include it by adding the following to your javascript and stylesheet files:
 
@@ -35,8 +35,4 @@ Then add an element with the id `jquery-exceptions` to your page:
 ### License
 
 The jQuery Mobile Rails Gem is published under the New BSD license.
-
-Originally developed for Earlydoc health management apps: 
-
-http://www.earlydoc.com
     
